@@ -6,4 +6,6 @@ Based on this [reference design](https://www.ti.com/lit/ug/tidu765/tidu765.pdf?t
 
 Here is a [short recording](/assets/clean_uke.wav) of a cheap ukulele through the preamp.
 
+The enclosure is an _Extruded Aluminum Enclosure Box - 94mm x 83mm x 30mm_, Adafruit is/was selling them [here](https://www.adafruit.com/product/2230). 
+
 ![clippy preamp](/assets/clippy_preamp.jpg)
